@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.CustomSplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/yellow_700</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash</item>
+        <item name="windowSplashScreenAnimationDuration">100</item>
+        <item name="postSplashScreenTheme">@style/Theme.AppBaseTheme</item>
+        <item name="android:windowSplashScreenIconBackgroundColor">@color/white</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/ic_android</item>
+
+        <!-- Configs for Status bar and Nav bar -->
+        <item name="android:statusBarColor">@color/purple_200</item>
+        <item name="android:navigationBarColor">@color/purple_500</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

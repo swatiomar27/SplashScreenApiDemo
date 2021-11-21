@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SplashScreenDemo</string>
+    <string name="android_12">android 12, A new system UI with Material You that\'s expressive, dynamic, and personal. Extend your apps with redesigned widgets, AppSearch, Game Mode, and new codecs. Support new protections like privacy dashboard and approximate location. Improve productivity with rich content insertion, easier blurs, improved native debugging, and much more.</string>
+</resources>
